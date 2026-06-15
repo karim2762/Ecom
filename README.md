@@ -66,13 +66,13 @@ KEXER combines the aesthetics of luxury brands with the simplicity of modern web
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kexer.git
+git clone https://github.com/karim2762/Ecom.git
 ```
 
 ### Navigate to Project
 
 ```bash
-cd kexer
+cd Ecom
 ```
 
 ### Run Locally
